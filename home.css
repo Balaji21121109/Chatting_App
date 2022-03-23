@@ -1,0 +1,30 @@
+#container{
+    border: 1px solid red;
+    width: 40%;
+    height: 600px;
+    margin: auto;
+
+}
+#user{
+    margin-left: 700px;
+}
+#chatDisp{
+    border: 1px solid rgb(12, 2, 2);
+    height: 500px;
+}
+#input{
+    border: 1px solid green;
+    height: 100px;
+
+}
+#messageInput{
+    height: 30px;
+    border-radius: 50px;
+    width: 80%;
+}
+#sendMessage{
+    border: 1px solid red;
+    background-color: brown;
+    font-size: 26px;
+   
+}
