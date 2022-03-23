@@ -17,6 +17,9 @@
     height: 100px;
 
 }
+#input p{
+    visibility: hidden;
+}
 #messageInput{
     height: 30px;
     border-radius: 50px;
